@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fetan</string>
+
+    <string name="welcome_title_label">Faster. Healthier.</string>
+    <string name="welcome_message">Stay in shape and track our runs with Fetan</string>
+    <string name="welcome_continue">Continue</string>
+</resources>
