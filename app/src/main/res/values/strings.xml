@@ -1,7 +1,18 @@
 <resources>
     <string name="app_name">Fetan</string>
 
+    <!-- WELCOME ACTIVITY -->
     <string name="welcome_title_label">Faster. Healthier.</string>
     <string name="welcome_message">Stay in shape and track our runs with Fetan</string>
     <string name="welcome_continue">Continue</string>
+
+    <!-- HOME ACTIVITY -->
+    <string name="home_no_runs_label">No runs found\nTap \'+\' to add a new run.</string>
+
+    <!-- ADD RUN ACTIVITY -->
+    <string name="add_run_title">Add Run</string>
+    <string name="add_run_distance_hint">Distance (meters)</string>
+    <string name="add_run_time_hint">Time (minutes)</string>
+    <string name="add_run_save_run">Save Run</string>
+
 </resources>

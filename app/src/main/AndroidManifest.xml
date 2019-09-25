@@ -14,5 +14,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".framework.HomeActivity" />
+        <activity
+            android:name=".framework.AddRunActivity"
+            android:label="@string/add_run_title" />
     </application>
 </manifest>
